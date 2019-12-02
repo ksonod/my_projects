@@ -1,11 +1,13 @@
-# Introduction
+# Objective
 
+
+Lausanne 
 
 # Results
 Main results are summarized in Tableau:
 https://public.tableau.com/profile/kotaro.sonoda#!/vizhome/LausanneMarathon/dashboard
 
-Supplymentary information is available in the jupyter notebook: 2018_DataVisualization.ipynb
+Supplementary figures are available in the jupyter notebook: 2018_DataVisualization.ipynb
 
 # Methods
 - Web scraping
@@ -14,7 +16,10 @@ Supplymentary information is available in the jupyter notebook: 2018_DataVisuali
 - SQLite for creating a database
 
 # Contents
-- <strong>2018_WebScraping.ipynb</strong>: After running all cells in this notebook, you can finish web scraping and get the collected data as csv files and a database.  
+- <strong>2018_WebScraping.ipynb</strong>: After running all cells in this notebook, you can scrape web data and get the collected data as csv files and a database.  
+-  <strong>2018_DataVisualization.ipynb</strong>: Data are taken from the created database and visualized using matplotlib and folium. 
+- <strong>world-countries.geojson</strong>: Geojson file for showing a map.
+- <strong>output</strong>: In this folder, the scraped data are stored as csv files and a database.
 
 # Data source
 - IOC country code: https://raw.githubusercontent.com/johnashu/datacamp/master/medals/Summer%20Olympic%20medalists%201896%20to%202008%20-%20IOC%20COUNTRY%20CODES.csv

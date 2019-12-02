@@ -7,7 +7,7 @@ The main objective of this repository is to reveal the diversity of nationalitie
 Main results are summarized in [my Tableau Public page](https://public.tableau.com/profile/kotaro.sonoda#!/vizhome/LausanneMarathon/dashboard)
 
 Supplementary figures are available in the Jupyter Notebook: [2018_DataVisualization.ipynb](https://github.com/ksonod/my_projects/blob/master/LausanneMarathon/2018_DataVisualization.ipynb)   
-*Choropleth map cannot be shown on GitHub. If you run codes in the Jupyter Notebook, you can see the interactive map shown below:
+*Choropleth map cannot be shown on GitHub. If you run codes in the Jupyter Notebook, you can see the interactive map shown below:    
 <img src="https://i.imgur.com/cOdHOFE.png" width="400px">   
 
 # Methods

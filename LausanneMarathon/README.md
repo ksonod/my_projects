@@ -4,8 +4,7 @@ The main objective of this repository is to reveal the diversity of nationalitie
 - Useful to explore the possibility of regarding a marathon race as the opportunity for tourism business.
 
 # Results
-Main results are summarized in Tableau:
-https://public.tableau.com/profile/kotaro.sonoda#!/vizhome/LausanneMarathon/dashboard
+Main results are summarized in [my Tableau Public page](https://public.tableau.com/profile/kotaro.sonoda#!/vizhome/LausanneMarathon/dashboard)
 
 Supplementary figures are available in the jupyter notebook: [2018_DataVisualization.ipynb](https://github.com/ksonod/my_projects/blob/master/LausanneMarathon/2018_DataVisualization.ipynb)
 
@@ -22,6 +21,6 @@ Supplementary figures are available in the jupyter notebook: [2018_DataVisualiza
 - <strong>output</strong>: In this folder, the scraped data are stored as csv files and a database.
 
 # Data source
-- IOC country code: https://raw.githubusercontent.com/johnashu/datacamp/master/medals/Summer%20Olympic%20medalists%201896%20to%202008%20-%20IOC%20COUNTRY%20CODES.csv
-- ISO country code: https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv
-- Marathon data: https://services.datasport.com/2018/lauf/lamara/
+- [IOC country code](https://raw.githubusercontent.com/johnashu/datacamp/master/medals/Summer%20Olympic%20medalists%201896%20to%202008%20-%20IOC%20COUNTRY%20CODES.csv)
+- [ISO country code](https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv)
+- [Marathon data](https://services.datasport.com/2018/lauf/lamara/)

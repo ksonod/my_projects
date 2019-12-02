@@ -15,7 +15,7 @@ Supplementary figures are available in the jupyter notebook: [2018_DataVisualiza
 - SQLite for creating a database
 
 # Contents
-- <strong>2018_WebScraping.ipynb</strong>: After running all cells in this notebook, you can scrape web data and get the collected data as csv files and a database.  
+- <strong>[2018_WebScraping.ipynb](https://github.com/ksonod/my_projects/blob/master/LausanneMarathon/2018_WebScraping.ipynb)</strong>: After running all cells in this notebook, you can scrape web data and get the collected data as csv files and a database.  
 -  <strong>[2018_DataVisualization.ipynb](https://github.com/ksonod/my_projects/blob/master/LausanneMarathon/2018_DataVisualization.ipynb)</strong>: Data are taken from the created database and visualized using matplotlib and folium. 
 - <strong>world-countries.geojson</strong>: Geojson file for showing a map.
 - <strong>output</strong>: In this folder, the scraped data are stored as csv files and a database.

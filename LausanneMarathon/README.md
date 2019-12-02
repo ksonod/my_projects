@@ -1,4 +1,4 @@
-# About this repository
+# About this project
 The main objective of this repository is to reveal the diversity in Lausanne Marathon 2018. This analysis could be:
 - Helpful to decide whether a special support for specific languages, e.g., translation for a web site, is needed.
 - Useful to explore the possibility of regarding a marathon race as the opportunity for tourism business.

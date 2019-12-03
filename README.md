@@ -5,5 +5,5 @@ Real-world data analysis
 <img src="https://i.imgur.com/cOdHOFE.png" width="500px">    
 
 
-2. [Japanese restaurants in Zurich](https://github.com/ksonod/my_projects/tree/master/JapaneseRestaurant)
+2. [Japanese restaurants in Zurich](https://github.com/ksonod/my_projects/tree/master/JapaneseRestaurantsInZurich)
 <img src="https://i.imgur.com/0WobSrz.png" width="500px"> 

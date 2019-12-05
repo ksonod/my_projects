@@ -8,5 +8,5 @@ Real-world data analysis
 
 
 ## [Japanese restaurants in Zurich](https://github.com/ksonod/my_projects/tree/master/JapaneseRestaurantsInZurich)
-- Methods: API (Google Map, folium), data cleaning, interactive map (folium), SQL
+- Methods: API (Google Map, foursquare), data cleaning, interactive map (folium), SQL
 <img src="https://i.imgur.com/0WobSrz.png" width="500px"> 

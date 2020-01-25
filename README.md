@@ -2,7 +2,7 @@
 Real-world data analysis
 
 ## [Classification of Sign Language](https://www.kaggle.com/kotarosonoda/sign-language-cnn)
-- Abstract: The pictures of sign language are classified into 24 groups using a convolutional neural network model. In order to compensate slight differences such as fist angles, hand position, and zoom level, data augmentation is performed.  
+- Abstract: The pictures of sign language are classified into 24 groups using a deep neural network model which consists of convolution layers, max pooling layers, dropout layer, and densely-connected layer. In order to compensate slight differences such as fist angles, hand position, and zoom level, data augmentation is performed.  
 - Mathods: Image data analysis, Convolutional neural network, Data augmentation
 
 <img src="https://github.com/ksonod/my_pictures/blob/master/sign_language.png" width="500px">      

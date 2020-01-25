@@ -4,6 +4,8 @@ Real-world data analysis
 ## [Classification of Sign Language](https://www.kaggle.com/kotarosonoda/sign-language-cnn)
 - Mathods: Image data analysis, Convolutional neural network, Data augmentation
 
+<img src="https://github.com/ksonod/my_pictures/blob/master/sign_language.png" width="500px">      
+
 ## [Diversity of nationalities in Lausanne Marathon 2018](https://github.com/ksonod/my_projects/tree/master/LausanneMarathon)   
 - Results: [Tableau Public](https://public.tableau.com/profile/kotaro.sonoda#!/vizhome/LausanneMarathon/dashboard)  
 - Methods: Web scraping, data cleaning, data visualization (matplotlib, folium, Tableau), SQL
